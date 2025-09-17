@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Christy</h1>
-<h3 align="center">I'm now studying Master of Computer Science at the University of Sydney with a passion for full-stack web development, Cloud Computing and Large Language Model.</h3>
+<h1 align="left">Hi 👋, I'm Christy</h1>
+<h3 align="left">I'm now studying Master of Computer Science at the University of Sydney with a passion for full-stack web development, Cloud Computing and Large Language Model.</h3>
 
 - 🔭 I’m currently working on **full-stack projects and diving deeper into cloud technologies.**
 
@@ -8,6 +8,8 @@
 - 📝 I regularly write articles on [My Gitbook](https://christy-blog.gitbook.io/ctrl+s-knowledge/).
 
 - If you can read Chinese, you can also visit [My CSDN](https://blog.csdn.net/weixin_46599926?type=blog), where I recorded all my study notes on data analysis/data science skills in the ear without GPT.
+
+- 💬 I can speak 3 languages (English, Cantonese, Mandarin)
 
 - 📫 Reach me through **lichenyang_christy@outlook.com** or [LinkedIn](https://linkedin.com/in/christy-li-8992a3320)
 
