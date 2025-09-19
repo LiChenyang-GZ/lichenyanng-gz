@@ -7,11 +7,13 @@
 
 - 📝 I regularly write articles on [My Gitbook](https://christy-blog.gitbook.io/ctrl+s-knowledge/).
 
-- If you can read Chinese, you can also visit [My CSDN](https://blog.csdn.net/weixin_46599926?type=blog), where I recorded all my study notes on data analysis/data science skills in the ear without GPT.
+- 🗒️ If you can read Chinese, you can also visit [My CSDN](https://blog.csdn.net/weixin_46599926?type=blog), where I recorded all my study notes on data analysis/data science skills in the ear without GPT.
 
-- 💬 I can speak 3 languages (English, Cantonese, Mandarin)
+- 👀 I can speak 3 languages (English, Cantonese, Mandarin), and I really love HongKong  enjoy Cantonese Songs & TVB 
 
 - 📫 Reach me through **lichenyang_christy@outlook.com** or [LinkedIn](https://linkedin.com/in/christy-li-8992a3320)
+
+- 🤪 Fun Fact: I often follow the Hong Kong entertainment scene. I really enjoy Cantonese Songs and TVB.
 
 <h3>🛠Skill Stack</h3>
 <table width="50%" valign="top">
