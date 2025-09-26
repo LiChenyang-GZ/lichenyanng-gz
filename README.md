@@ -9,7 +9,7 @@
 
 - 🗒️ If you can read Chinese, you can also visit [My CSDN](https://blog.csdn.net/weixin_46599926?type=blog), where I recorded all my study notes on data analysis/data science skills in the ear without GPT.
 
-- 👀 I can speak 3 languages (English, Cantonese, Mandarin), and I really love HongKong  enjoy Cantonese Songs & TVB 
+- 👀 I can speak 3 languages (English, Cantonese, Mandarin)
 
 - 📫 Reach me through **lichenyang_christy@outlook.com** or [LinkedIn](https://linkedin.com/in/christy-li-8992a3320)
 
